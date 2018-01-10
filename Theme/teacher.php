@@ -12,7 +12,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-	<title>薛榮銀 - Free Bootstrap 3 One Page Theme</title>
+	<title>蔡志仁教授</title>
 	<meta name="description" content="BlackTie.co - Free Handsome Bootstrap Themes" />
 	<meta name="keywords" content="themes, bootstrap, free, templates, bootstrap 3, freebie,">
 	<meta property="og:title" content="">
@@ -46,8 +46,8 @@
 				<ul class="nav row">
 					<li data-slide="1" class="col-12 col-sm-2"><a id="menu-link-1" href="#slide-1" title="Next Section"><span class="icon icon-home"></span> <span class="text">HOME</span></a></li>
 					<li data-slide="2" class="col-12 col-sm-2"><a id="menu-link-2" href="#slide-2" title="Next Section"><span class="icon icon-user"></span> <span class="text">EXPERIENCE </span></a></li>
-					<li data-slide="3" class="col-12 col-sm-2"><a id="menu-link-3" href="#slide-1" title="Next Section"><span class="icon icon-briefcase"></span> <span class="text">ABOUT</span></a></li>
-					<li data-slide="4" class="col-12 col-sm-2"><a id="menu-link-4" href="#slide-4" title="Next Section"><span class="icon icon-gears"></span> <span class="text">EDUCATION</span></a></li>
+					<li data-slide="1" class="col-12 col-sm-2"><a id="menu-link-3" href="#slide-1" title="Next Section"><span class="icon icon-briefcase"></span> <span class="text">ABOUT</span></a></li>
+					<li data-slide="4" class="col-12 col-sm-2"><a id="menu-link-4" href="#slide-4" title="Next Section"><span class="icon icon-gears"></span> <span class="text">EXPERTISE</span></a></li>
 					<li data-slide="5" class="col-12 col-sm-2"><a id="menu-link-5" href="#slide-5" title="Next Section"><span class="icon icon-heart"></span> <span class="text">INTEREST</span></a></li>
 					<li data-slide="6" class="col-12 col-sm-2"><a id="menu-link-6" href="#slide-6" title="Next Section"><span class="icon icon-envelope"></span> <span class="text">AWARDS</span></a></li>
 				</ul>
@@ -73,16 +73,16 @@
 		<div class="container">
 			<div id="home-row-1" class="row clearfix">
 				<div class="col-12">
-					<h1 class="font-semibold">薛榮銀 <span class="font-thin">ZON-YIN SHAE</span></h1>
-					<h4 class="font-thin">ASIA UNIVERSITY <span class="font-semibold">DEPT. COMPUTER SCIENCE AND INFORMATION ENGINEERING</span> based in London.</h4>
+					<h1 class="font-semibold">蔡志仁 <span class="font-thin">Zhi-Ren Tsai</span></h1>
+					<h4 class="font-semibold">亞洲大學資訊工程學系<span class="font-thin">副教授</span> </h4>
 					<br>
 					<br>
 				</div><!-- /col-12 -->
 			</div><!-- /row -->
 			<div id="home-row-2" class="row clearfix">
-				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="2"><img src="images/s02.png"></div><span>EXPERIENCE</span></div>
-				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="1"><img src="images/s01.png"></div><span>ABOUT</span></div>
-				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="images/s03.png"></div><span>EDUCATION</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="2"><img src="images/s02.jpg"></div><span>EXPERIENCE</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="1"><img src="images/s04.png"></div><span>ABOUT</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="images/s03.jpg"></div><span>EXPERTISE</span></div>
 			</div><!-- /row -->
 		</div><!-- /container -->
 	</div><!-- /slide1 -->
@@ -102,23 +102,23 @@
 			<div class="row content-row">
 				<div class="col-12 col-lg-3 col-sm-6">
 					<p><i class="icon icon-eye-open"></i></p>
-					<h2 class="font-semibold">亞洲大學講座教授(現任)</h2>
+					<h2 class="font-semibold">亞洲大學副教授</h2>
 					<h4 class="font-thin">資訊工程學系</h4>
 				</div><!-- /col12 -->
 				<div class="col-12 col-lg-3 col-sm-6">
 					<p><i class="icon icon-laptop"></i></p>
-					<h2 class="font-semibold">大數據研究所研發總監</h2>
-					<h4 class="font-thin">資策會2013 - 2015</h4>
+					<h2 class="font-semibold">柏瑞醫股份有限公司的監事</h2>
+					<h4 class="font-thin">2016.1迄今</h4>
 				</div><!-- /col12 -->
 				<div class="col-12 col-lg-3 col-sm-6">
 					<p><i class="icon icon-tablet"></i></p>
-					<h2 class="font-semibold">IBM華生研究室研究學者</h2>
-					<h4 class="font-thin">美國IBM華生研究室1989 – 2012</h4>
+					<h2 class="font-semibold">普特企業有限公司的研發總顧問</h2>
+					<h4 class="font-thin">2008.2迄今</h4>
 				</div><!-- /col12 -->
 				<div class="col-12 col-lg-3 col-sm-6">
 					<p><i class="icon icon-pencil"></i></p>
-					<h2 class="font-semibold">客座教授</h2>
-					<h4 class="font-thin">國立交通大學1996 – 1997</h4>
+					<h2 class="font-semibold">電子系講師</h2>
+					<h4 class="font-thin">景文科技大學</h4>
 				</div><!-- /col12 -->
 			</div><!-- /row -->
 		</div><!-- /container -->
@@ -126,16 +126,13 @@
 
 	<!-- === SLide 3 - Portfolio -->
 	<div class="slide story" id="slide-3" data-slide="3">
-		<div class="row">
-			<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href=""><img class="thumb" src="" alt=""></a></div>
-		</div><!-- /row -->
 	</div><!-- /slide3 -->
 
 	<!-- === Slide 4 - Process === -->
 	<div class="slide story" id="slide-4" data-slide="4">
 		<div class="container">
 			<div class="row title-row">
-				<div class="col-12 font-thin">EDUCATION <span class="font-semibold">學歷</span></div>
+				<div class="col-12 font-thin"><span class="font-semibold">EXPERTISE</span></div>
 			</div><!-- /row -->
 			<div class="row line-row">
 				<div class="hr">&nbsp;</div>
@@ -145,17 +142,26 @@
 				<div class="col-sm-1 hidden-sm">&nbsp;</div>
 				<div class="col-12 col-sm-2">
 					<p><i class="icon icon-bolt"></i></p>
-					<h2 class="font-thin">交通大學<br><span class="font-semibold" >電子工程 學士</span></h2>
+					<h2 class="font-thin">
+                        適應控制
+                        電腦視覺
+                        機器人學<br></h2>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2">	</div>
 				<div class="col-12 col-sm-2">
 					<p><i class="icon icon-cloud"></i></p>
-					<h2 class="font-thin">交通大學<br><span class="font-semibold">電子工程 碩士</span></h2>
+					<h2 class="font-thin">
+                        電力電子
+                        人工智慧
+                        物聯網<br></h2>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2">	</div>
 				<div class="col-12 col-sm-2">
 					<p><i class="icon icon-gift"></i></p>
-					<h2 class="font-thin">美國賓州大學<br><span class="font-semibold"> 電機 博士</span></h2>
+					<h2 class="font-thin">
+                        嵌入式系統
+                        APP
+                        大數據分析<br></h2>
 				</div><!-- /col12 -->
 				<div class="col-sm-1 hidden-sm">&nbsp;</div>
 			</div><!-- /row -->
@@ -206,15 +212,15 @@
 				<div class="col-sm-1 hidden-sm">&nbsp;</div>
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-phone"></i></a></p>
-					<span class="hover-text font-light ">+44 4839-4343</span></a>
+					<span class="hover-text font-light ">分機： 48029</span></a>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-envelope"></i></a></p>
-					<span class="hover-text font-light ">munter@blacktie.co</span></a>
+					<span class="hover-text font-light ">ren@asia.edu.tw</span></a>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-home"></i></a></p>
-					<span class="hover-text font-light ">London, England<br>zip code 98443</span></a>
+					<a><span class="hover-text font-light ">辦公室： <br>8029</span></a>
 				</div><!-- /col12 -->
 				<div class="col-12 col-sm-2 with-hover-text">
 					<p><a target="_blank" href="#"><i class="icon icon-facebook"></i></a></p>
